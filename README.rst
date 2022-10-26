@@ -16,9 +16,9 @@ Usage
 
 .. code-block:: bash
 
-    >>> from zocrypt import encrypt,decrypt,key
-    >>> from encrypt import encrypt_text
-    >>> from decrypt import decrypt_text
+    >>> from zocrypt import encrypter,decrypter,key
+    >>> from encrypter import encrypt_text
+    >>> from decrypter import decrypt_text
     >>> text="5 Mangoes are better than 6 Mangoes"
     >>> key=key.generate()
     >>> encrypt_text(text,key)
