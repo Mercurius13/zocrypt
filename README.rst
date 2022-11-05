@@ -2,6 +2,8 @@ Zocrypt
 ===============
 Created by **ZeroAndOne Developers** for protection of data with 6 level encryption.
 
+Pypi: https://pypi.org/project/zocrypt/
+
 Based on our project `secret message encoder decoder <https://Secret-Message-Encoder-Decoder.itszeroandone.repl.co>`_
 
 
